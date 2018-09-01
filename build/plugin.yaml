@@ -1,0 +1,5 @@
+id: com.dschalla.banmuteplugin
+name: BanMute Plugin
+description: Allows administrator to ban and mute users within channels using slash commands
+backend:
+  executable: banmuteplugin
